@@ -1,0 +1,9 @@
+imports: [
+  HeaderComponent,
+  WorkExperienceComponent,
+  EducationComponent,
+  SkillsComponent,
+  CertificatesComponent,
+  LanguagesComponent,
+  InterestsComponent
+]
